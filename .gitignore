@@ -4,12 +4,13 @@
 /node_modules
 /.pnp
 .pnp.js
-/netlify
-/netlify.toml
+
 # testing
 /coverage
 
-
+#build
+/.netlify
+/netlify.toml
 
 # misc
 .DS_Store
